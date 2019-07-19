@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first post"
-date: 2019-07-19
+date: 2019-07-18
 ---
 
 I have finally gotten around to setting up my personal website.
