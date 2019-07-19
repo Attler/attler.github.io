@@ -4,8 +4,6 @@ title: "Context in nlp"
 date: 2019-07-19
 ---
 
-# Context
-
 One of the most important problems in Natural Langugage Understanding (NLU) is context. Not all words are different to each other in the same way, which is why models based on word frequency can perform poorly. Word embeddings such as [GLOVE](http://www.aclweb.org/anthology/D14-1162) are often used in order to represent the similarities and differences words or tokens. Words that are similar in meaning are represented closer together in the embedding space. Some words though have very different meanings in different contexts. For example, "bank" may mean the "bank" of a river (noun), a savings "bank" (noun), to "bank" money (verb), or a "bank" of computers (noun). This is difficult to represent and resolve the ambiguity with embeddings.
 
 ## CNN
