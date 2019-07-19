@@ -1,5 +1,6 @@
 name: Jason Hepburn
 markdown: kramdown
+theme: jekyll-theme-time-machine
 permalink: /blog/:year/:month/:day/:title
 paginate: 5
 paginate_path: "/blog/page:num/"
