@@ -6,7 +6,7 @@ paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-sitemap
 
-twitter_username:     jj_hepburn
+twitter_username:     jj_hepboin
 github_username:      attler
 linkedin_username:    jason-hepburn-b585701a
 google_plus_username:
