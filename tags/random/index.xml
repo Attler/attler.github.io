@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random on J Hepburn</title>
-    <link>http://attler.github.io/tags/random/</link>
+    <link>https://attler.github.io/tags/random/</link>
     <description>Recent content in random on J Hepburn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-AU</language>
     <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://attler.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://attler.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My first post</title>
-      <link>http://attler.github.io/publications/my-blog/</link>
+      <link>https://attler.github.io/publications/my-blog/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/publications/my-blog/</guid>
+      <guid>https://attler.github.io/publications/my-blog/</guid>
       <description>I have finally gotten around to setting up my personal website.
 With some inspiration from Rachel Thomas I have added a blog. I would like to practice more writing and in a way that is publishable.</description>
     </item>

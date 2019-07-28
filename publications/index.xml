@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on J Hepburn</title>
-    <link>http://attler.github.io/publications/</link>
+    <link>https://attler.github.io/publications/</link>
     <description>Recent content in Publications on J Hepburn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-AU</language>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://attler.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://attler.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Context in nlp</title>
-      <link>http://attler.github.io/publications/context-in-nlp/</link>
+      <link>https://attler.github.io/publications/context-in-nlp/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/publications/context-in-nlp/</guid>
+      <guid>https://attler.github.io/publications/context-in-nlp/</guid>
       <description>One of the most important problems in Natural Langugage Understanding (NLU) is context. Not all words are different to each other in the same way, which is why models based on word frequency can perform poorly. Word embeddings such as GLOVE are often used in order to represent the similarities and differences words or tokens. Words that are similar in meaning are represented closer together in the embedding space. Some words though have very different meanings in different contexts.</description>
     </item>
     
     <item>
       <title>My first post</title>
-      <link>http://attler.github.io/publications/my-blog/</link>
+      <link>https://attler.github.io/publications/my-blog/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/publications/my-blog/</guid>
+      <guid>https://attler.github.io/publications/my-blog/</guid>
       <description>I have finally gotten around to setting up my personal website.
 With some inspiration from Rachel Thomas I have added a blog. I would like to practice more writing and in a way that is publishable.</description>
     </item>

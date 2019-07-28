@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on J Hepburn</title>
-    <link>http://attler.github.io/tags/</link>
+    <link>https://attler.github.io/tags/</link>
     <description>Recent content in Tags on J Hepburn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-AU</language>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://attler.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://attler.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine Learning</title>
-      <link>http://attler.github.io/tags/machine-learning/</link>
+      <link>https://attler.github.io/tags/machine-learning/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/tags/machine-learning/</guid>
+      <guid>https://attler.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://attler.github.io/tags/nlp/</link>
+      <link>https://attler.github.io/tags/nlp/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/tags/nlp/</guid>
+      <guid>https://attler.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>http://attler.github.io/tags/random/</link>
+      <link>https://attler.github.io/tags/random/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://attler.github.io/tags/random/</guid>
+      <guid>https://attler.github.io/tags/random/</guid>
       <description></description>
     </item>
     
